@@ -1,0 +1,2 @@
+{"level":"info","ts":1655225257.140005,"caller":"zap_config_test/main.go:21","msg":"failed to fetch url","url":22}
+{"level":"info","ts":1655225257.1406195,"caller":"zap_config_test/main.go:22","msg":"Failed to fetch url: %!s(int=123)"}
